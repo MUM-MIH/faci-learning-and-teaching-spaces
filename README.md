@@ -9,7 +9,7 @@
     <li><a href="#about-the-project"> ➤ About The Project</a></li>
     <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
-    <li><a href="#dataset"> ➤ Dataset</a></li>
+<!--     <li><a href="#dataset"> ➤ Dataset</a></li>
     <li><a href="#roadmap"> ➤ Roadmap</a></li>
     <li>
       <a href="#preprocessing"> ➤ Preprocessing</a>
@@ -19,9 +19,9 @@
         <li><a href="#topological-feature">Topological feature</a></li>
       </ul>
     </li>
-    <!--<li><a href="#experiments">Experiments</a></li>-->
+    <li><a href="#experiments">Experiments</a></li>
     <li><a href="#results-and-discussion"> ➤ Results and Discussion</a></li>
-    <li><a href="#references"> ➤ References</a></li>
+    <li><a href="#references"> ➤ References</a></li> -->
     <li><a href="#contributors"> ➤ Contributors</a></li>
   </ol>
 </details>
@@ -103,4 +103,4 @@ faci-learning-and-teaching-spaces
 </p>
 
 <br>
-✤ <i>This was the final project for the course COMP 6321 - Machine Learning (Fall 2020), at <a href="https://www.concordia.ca/">Concordia University</a><i>
+✤ <i>Ancora Imparo<i>
