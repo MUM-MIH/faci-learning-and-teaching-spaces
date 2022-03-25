@@ -6,7 +6,7 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project"> ➤ About The Project</a></li>
+    <!-- <li><a href="#about-the-project"> ➤ About The Project</a></li> -->
     <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
 <!--     <li><a href="#dataset"> ➤ Dataset</a></li>
@@ -27,11 +27,11 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-<h2 id="about-the-project"> :pencil: About The Project</h2>
+<!-- <h2 id="about-the-project"> :pencil: About The Project</h2>
 
 <p align="justify"> 
   This project require the MA's to lead the training and communication plan for all our teaching spaces to shift classes and teaching styles from didactic learning to collaborative learning. They will be working with our in-house AV team to understand how the systems in old and new classrooms work and create content on how to use these spaces to their full potential. The MA’s are capable and have the required skill set needed for this, and they will be given the choice and freedom to choose the platform(s) they think is the best fit (videos, guides, Guroo, Moodle, etc.).
-</p>
+</p> -->
 
 <!-- PREREQUISITES -->
 <h2 id="prerequisites"> :fork_and_knife: Prerequisites</h2>
